@@ -1,0 +1,125 @@
+1	What is an Escape Room?
+2	What Escape rooms do you have?
+3	Which escape room is the best?
+4	What is the easiest escape room?
+5	What is the hardest room?
+6.1	What are the success rates of rooms?
+6.2	What is the success rate for Wild West?
+7	Are we locked in the room?
+8	Can we talk to someone outside if we need something or help during the game, even if it's not an emergency?
+9	Are any of the escape rooms scary? What is the scariest escape room?
+10	Are the rooms physical?
+11	Are your escape rooms single room experience?
+12.1	Are there any actors in the rooms to make the story feel real?
+12.2	Do you offer any in-character or live-action elements?
+13	Are there video cameras in the room?
+14	Do any of your rooms have virtual reality or something really high-tech?
+15	How does the head-to-head gaming format work?
+16	Do I need glasses?
+17	Is there any recommended clothing attire?
+18	For head-to-head games, are both teams in the same room?
+19	Can two teams of two compete against each other?
+20	What happens if we don't finish in time?
+21	What happens if we arrive late?
+22.1	What is the duration of an escape room?
+22.2	How long does 1 session take?
+23	If we're really good and solve everything fast, can we try more than one room in a visit?
+24	What should we bring if we plan to use the party room at your location?
+25.1	How long is one birthday session?
+25.2	How long is room for birthday party?
+26	Can you tell me how long the complimentary party room is available after our escape room session?
+27	Are decorations provided for birthday celebrations in the party room?
+28.1	Can the party room be arranged to fit more people if we use a buffet style setup?
+28.2	How big is the party/meeting room?
+29	How many party rooms are there? / How do I book the party room?
+30	Does the event provide a food package? / Do you have a restaurant or place to eat on your premises?
+31	Is there a place to put our belongings?
+32	Are there lockers?
+33	Are there restrooms available on-site?
+34	Do you have a fridge and/or freezer?
+35	Do you sell or can we bring alcohol?
+36	Can we get pictures or some kind of souvenir to remember the experience?
+37	Do you have any sort of leaderboards or ways to see how we did compared to others?
+38	What do you have in your lobby?
+39	What else is offered at your place besides escape rooms?
+40	Can I bring a pet with me?
+41.1	Is there a required age to participate in the escape room?
+41.2	How old do you have to be to play?
+41.3	What is the minimum age?
+41.4	Can children under 7 years old participate in the games?
+42.1	If the children are below 12 years old, do they need an adult player?
+42.2	Does the parent have to participate in the escape room?
+42.3	Can I leave my kids?
+43	Can I bring my toddler with me?
+44	Should we pay for 4 year toddler?
+45	Are there any student rates?
+46	Do all parents need to be present?
+47	What if I am experienced player?
+48	What if I am inexperienced player?
+49	Are these games specifically designed for kids?
+50	How difficult are the puzzles?
+51	We has never done anything like this before. Are we in trouble?
+52	Do you recommend any specific room for a family with teens?
+53	Which one is suitable for the six-year-old?
+54	Do your escape rooms provide challenges that are suitable for escape room aficionados?
+55	What if we have a member who is pregnant, can they still play?
+56	Are there any medical conditions that you recommend against playing the experiences with?
+57	Are the escape rooms suitable for people who are claustrophobic?
+58	Are your rooms wheelchair accessible
+59.1	Do you need to make a booking?
+59.2	Can I book in-person?
+60	How do I book?
+61.1	How to book the head to head option?
+61.2	How do I book a dual room?
+62	If we were to do a large school group booking and book your whole facility, would you be able to open earlier to accommodate us?
+63.1	Can I add more people to the booking?
+63.2	I already booked a party event, but can I still change the people who are coming?
+63.3	If I book a room, can other people join us?
+63.4	Can I remove a person from booking?
+64	What's the process to book your escape room for a large group or corporate event?
+65	Will our reservation be grouped with others?
+66	Does everyone need to fill and sign a waiver?
+67.1	Can the waiver be signed ahead of time online?
+67.2	Can I get the waiver before arrival?
+68	Will the remaining amount be charged automatically from the card I provided or I need to pay the remaining amount when I go?
+69	Why do I not pay the full booking price when booking an escape room online?
+70	Do I get the deposit back after?
+71	What is your cancellation policy? How far in advance must I cancel my booking to receive a full refund on the deposit?
+72	Can we cancel a reservation?
+73	Do you accommodate earlier hours?
+74.1	What are your working hours?
+74.2	When are you closing?
+75	Are you open on holidays?
+76	What times are available today?
+77	Where are you located?
+78	How do I contact a person?
+79	Can I speak to a real person right now?
+80	How many players can participate in the Firefighter Rescue Mission room simultaneously?
+81	How many players can participate in the Wild West room simultaneously?
+82	How many players can participate in the Volcano Views room simultaneously?
+83	What is the maximum number of people who can play an Escape Room?
+84	Do you accommodate larger groups?
+85	Can one room fit 25 players?
+86	What is the minimum number of players?
+87	What is the ideal team size for a balanced experience?
+88	Can only one player play?
+89	Can we have more players than allowed?
+90	Can we have less players than allowed?
+91	Which rooms offer head-to-head?
+92	What are the charges for extending the party room?
+93.1	What are the prices/costs per person?
+93.2	What is the price for adults?
+93.3	What is the price for children?
+94	How much is it in total with the tax?
+95	Is the deposit for the booking extra?
+96	Do you offer the purchase of gift certificates? I would like to purchase a couple for different parties but can’t firm up dates until the new year.
+97	How do I get voucher when purchased?
+98.1	Do you offer any discounts?
+98.2	How much is group booking?
+99.1	Is there a CAA discount?
+99.2	How do I apply this discount?
+100	I have a 15% off coupon from Mississauga pass. I don’t know how to apply it for my booking?
+101	Do you have any birthday specials?
+102	Is the birthday person allowed to play for free?
+103	Do you accept Access2 cards?
+104	What forms of payment do you accept? Do you accept cash?
