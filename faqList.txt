@@ -97,32 +97,33 @@
 79	Where are you located?
 80	How do I contact a person?
 81	Can I speak to a real person right now?
-82	How many players can participate in the Firefighter Rescue Mission room simultaneously?
-83	How many players can participate in the Wild West room simultaneously?
-84	How many players can participate in the Volcano Views room simultaneously?
-85	What is the maximum number of people who can play an Escape Room?
-86	Do you accommodate larger groups?
-87	Can one room fit 25 players?
-88	What is the minimum number of players?
-89	What is the ideal team size for a balanced experience?
-90	Can only one player play?
-91	Can we have more players than allowed?
-92	Can we have less players than allowed?
-93	Which rooms offer head-to-head?
-94	What are the charges for extending the party room?
-95.1	What are the prices/costs per person?
-95.2	What is the price for adults?
-95.3	What is the price for children?
-96	How much is it in total with the tax?
-97	Is the deposit for the booking extra?
-98	Do you offer the purchase of gift certificates? I would like to purchase a couple for different parties but can’t firm up dates until the new year.
-99	How do I get voucher when purchased?
-100.1	Do you offer any discounts?
-100.2	How much is group booking?
-101.1	Is there a CAA discount?
-101.2	How do I apply this discount?
-102	I have a 15% off coupon from Mississauga pass. I don’t know how to apply it for my booking?
-103	Do you have any birthday specials?
-104	Is the birthday person allowed to play for free?
-105	Do you accept Access2 cards?
-106	What forms of payment do you accept? Do you accept cash?
+82  What are the allowed group sizes for escape rooms?
+83	How many players can participate in the Firefighter Rescue Mission room simultaneously?
+84	How many players can participate in the Wild West room simultaneously?
+85	How many players can participate in the Volcano Views room simultaneously?
+86	What is the maximum number of people who can play an Escape Room?
+87	Do you accommodate larger groups?
+88	Can one room fit 25 players?
+89	What is the minimum number of players?
+90	What is the ideal team size for a balanced experience?
+91	Can only one player play?
+92	Can we have more players than allowed?
+93	Can we have less players than allowed?
+94	Which rooms offer head-to-head?
+95	What are the charges for extending the party room?
+96.1	What are the prices/costs per person?
+96.2	What is the price for adults?
+96.3	What is the price for children?
+97	How much is it in total with the tax?
+98	Is the deposit for the booking extra?
+99	Do you offer the purchase of gift certificates? I would like to purchase a couple for different parties but can’t firm up dates until the new year.
+100	How do I get voucher when purchased?
+101.1	Do you offer any discounts?
+101.2	How much is group booking?
+102.1	Is there a CAA discount?
+102.2	How do I apply this discount?
+103	I have a 15% off coupon from Mississauga pass. I don’t know how to apply it for my booking?
+104	Do you have any birthday specials?
+105	Is the birthday person allowed to play for free?
+106	Do you accept Access2 cards?
+107	What forms of payment do you accept? Do you accept cash?
