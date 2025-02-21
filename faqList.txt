@@ -114,6 +114,7 @@
 96.1	What are the prices/costs per person?
 96.2	What is the price for adults?
 96.3	What is the price for children?
+96.4  Is there a discounted price for kids?
 97	How much is it in total with the tax?
 98	Is the deposit for the booking extra?
 99	Do you offer the purchase of gift certificates? I would like to purchase a couple for different parties but can’t firm up dates until the new year.
